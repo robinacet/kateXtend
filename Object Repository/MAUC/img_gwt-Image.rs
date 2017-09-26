@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_gwt-Image</name>
+   <tag></tag>
+   <elementGuidId>9ab6e1e4-653b-4313-8f55-f5c44b5096f1</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;whina1512m000-0-grid-1-select-12&quot;)/img[@class=&quot;gwt-Image&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAT0lEQVR42mNgGNRAePH3/6RgqhiC0zBSNIMAxQbBAEUGIQOyDcJmCF6D0BXiM4SgQcga8BlClEHogKzoJ9YQogKbGEMoTpD0MYhqmXbQAADcYyh/f95YswAAAABJRU5ErkJggg==</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-Image</value>
+   </webElementProperties>
+</WebElementEntity>

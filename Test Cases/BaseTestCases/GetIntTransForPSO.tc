@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test case gets the integreation transcation entries for part sales order
+
+Input: 
+1. Order
+2. Position
+
+Output
+1. G_PartIssue 
+2. G_COGS
+3. G_RevenueAnalysis
+
+Steps:
+1.  Open Browser
+2.  Open session tfgld4510m000
+3. Search Order Number
+4. Filter with position number
+5. Get Part Issue entry save it to G_PartIssue
+6. Get COGS entry  save it to G_COGS
+7. Get Revenue analysis entry save it to G_RevenueAnalysis</description>
+   <name>GetIntTransForPSO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36c57aa7-fe6c-4bea-a651-ec47adb374ce</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a795fdd1-e637-4152-b0aa-bc566d0f59ec</id>
+      <masked>false</masked>
+      <name>Order</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf867af5-49fa-4db9-900e-f714638ebbe2</id>
+      <masked>false</masked>
+      <name>Position</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_tfgld1504m000-10-__exact.m</name>
+   <tag></tag>
+   <elementGuidId>a25d3ade-884e-403e-8260-525ba89d59d0</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tfgld1504m000-10-__exact.match__-image&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAT0lEQVR42mNgGNRAePH3/6RgqhiC0zBSNIMAxQbBAEUGIQOyDcJmCF6D0BXiM4SgQcga8BlClEHogKzoJ9YQogKbGEMoTpD0MYhqmXbQAADcYyh/f95YswAAAABJRU5ErkJggg==</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tfgld1504m000-10-__exact.match__-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-Image</value>
+   </webElementProperties>
+</WebElementEntity>

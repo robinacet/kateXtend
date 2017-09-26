@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PickPackInvoice</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eba7c579-2195-450c-aa2d-115ae9a60b24</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23d06956-4966-41d5-9f4d-bef69c7d0817</id>
+      <masked>false</masked>
+      <name>status1</name>
+   </variable>
+</TestCaseEntity>

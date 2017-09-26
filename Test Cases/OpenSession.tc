@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OpenSession</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f145ed31-4add-4217-9084-e03333cba39d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c6df71f-d3f3-4f4f-9ef3-066e0b3489d3</id>
+      <masked>false</masked>
+      <name>SessionID</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+DemoTest,Firefox 43.0,,2017-09-26 15:09:11,2017-09-26 15:10:59,1m - 48.579s,ERROR
+,,,,,,
+Test Cases/Test,Firefox 43.0,,2017-09-26 15:09:11,2017-09-26 15:10:55,1m - 43.800s,ERROR
+callTestCase,Firefox 43.0,,2017-09-26 15:09:13,2017-09-26 15:10:21,1m - 7.775s,PASSED
+callTestCase,Firefox 43.0,,2017-09-26 15:10:21,2017-09-26 15:10:55,34.498s,FAILED

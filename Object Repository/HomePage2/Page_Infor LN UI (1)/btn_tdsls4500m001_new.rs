@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_tdsls4500m001_new</name>
+   <tag></tag>
+   <elementGuidId>56dbfea0-4908-4383-9f7a-3af5c57ef314</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tdsls4500m002-0-button-std-file.new&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAZklEQVQ4T8WTUQoAIAhD8/6HLgo0U4aVRH1J6TMnozJPVTEKyT7wxU4x1y4QC3AdwA8l7xbQuaM2Axj1JwCtH2sWAiTRqP8egNbqRkYapAE88j8NIltsbwGBICDq7MyozXPiSLFBA0+0IhGQggjQAAAAAElFTkSuQmCC</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-Image</value>
+   </webElementProperties>
+</WebElementEntity>

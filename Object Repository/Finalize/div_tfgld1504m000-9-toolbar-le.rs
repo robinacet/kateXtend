@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_tfgld1504m000-9-toolbar-le</name>
+   <tag></tag>
+   <elementGuidId>4558e7b4-2ad0-4420-91ea-aa0c57cc8061</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tfgld1504m000-9&quot;)/div[@class=&quot;Inner&quot;]/div[@class=&quot;Container&quot;]/div[@class=&quot;FlowLayoutPanel&quot;]/div[@id=&quot;tfgld1504m000-9-toolbarcontainer&quot;]/div[@id=&quot;tfgld1504m000-9-toolbar-left&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tfgld1504m000-9-toolbar-left</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Toolbar</value>
+   </webElementProperties>
+</WebElementEntity>

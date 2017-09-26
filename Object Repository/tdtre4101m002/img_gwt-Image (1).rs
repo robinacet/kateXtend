@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_gwt-Image (1)</name>
+   <tag></tag>
+   <elementGuidId>a9bd4681-d78c-477a-9bf3-bb959407aca7</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tdtre4101m002-1-button-std-file.save&quot;)/img[@class=&quot;gwt-Image&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAWklEQVQ4T2NkgID/UJpYihGmEMQgVTOyXgZkA2CmggyE24DmJHTLGMkxAMXV5BoADzeaGYAvNpDDCmsgEhuV4ADF5oVhYAChlEkwEAfOAGJDH0Udin/IMIERALeDJwXjjVJ7AAAAAElFTkSuQmCC</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-Image</value>
+   </webElementProperties>
+</WebElementEntity>

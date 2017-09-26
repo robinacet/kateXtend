@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="PSOTEst" time="193" tests="1" failures="0" errors="0">
+   <testsuite name="PSOTEst" tests="1" failures="0" errors="0" time="193" timestamp="2017-09-25 11:09:34" hostname="rgajbhiye - EET-RG.e-emphasys.com" id="Test Suites/PSOTEst">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\rgajbhiye\\Katalon Studio\\eXtendHTML\\Reports\\PSOTEst\\20170925_110926"/>
+         <property name="logFiles" value="C:\\Users\\rgajbhiye\\Katalon Studio\\eXtendHTML\\Reports\\PSOTEst\\20170925_110926\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="rgajbhiye - EET-RG.e-emphasys.com"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="4.8.0.2"/>
+         <property name="browser" value="Firefox 43.0"/>
+         <property name="hostAddress" value="192.168.25.107"/>
+         <property name="sessionId" value="fbe281bf-83bb-4156-8e75-bf95c1e4ca3d"/>
+         <property name="seleniumVersion" value="2.53.0"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/Test" classname="Test Cases/Test" status="PASSED">
+         <system-out><![CDATA[2017-09-25 11:09:35 - [TEST_CASE][PASSED] - Test Cases/Test: Test Cases/Test
+
+2017-09-25 11:09:36 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/PSOHeader' successfully
+
+2017-09-25 11:09:36 - [TEST_CASE][PASSED] - Test Cases/PSOHeader: Test Cases/PSOHeader
+
+2017-09-25 11:09:36 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/OpenSession' successfully
+
+2017-09-25 11:09:36 - [TEST_CASE][PASSED] - Test Cases/OpenSession: Test Cases/OpenSession
+
+2017-09-25 11:09:37 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2017-09-25 11:09:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2017-09-25 11:09:44 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://rgajbhiye:Robin$123@proxima-ln4.e-emphasys.com:8441/webui/servlet/login' successfully
+
+2017-09-25 11:09:46 - [MESSAGE][PASSED] - Navigate to 'https://rgajbhiye:Robin$123@proxima-ln4.e-emphasys.com:8441/webui/servlet/login' successfully
+
+2017-09-25 11:09:46 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2017-09-25 11:09:46 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2017-09-25 11:09:46 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2017-09-25 11:09:46 - [MESSAGE][PASSED] - Current window maximized
+
+2017-09-25 11:09:46 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_more' is clicked on
+
+2017-09-25 11:09:53 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_more' is clicked on
+
+2017-09-25 11:09:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_Option' is clicked on
+
+2017-09-25 11:09:53 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_Option' is clicked on
+
+2017-09-25 11:09:53 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_RunProgram_' is clicked on
+
+2017-09-25 11:09:53 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_RunProgram_' is clicked on
+
+2017-09-25 11:09:53 - [TEST_STEP][PASSED] - sendKeys: Keys 'tdsls4500m002' sent to object: 'Object Repository/HomePage2/Page_Infor LN UI/Input_Session_ID'
+
+2017-09-25 11:09:54 - [MESSAGE][PASSED] - Keys 'tdsls4500m002' sent to object: 'Object Repository/HomePage2/Page_Infor LN UI/Input_Session_ID'
+
+2017-09-25 11:09:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_options' is clicked on
+
+2017-09-25 11:09:54 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_options' is clicked on
+
+2017-09-25 11:09:54 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/OpenSession' successfully
+
+2017-09-25 11:09:54 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI (1)/btn_tdsls4500m001_new' is clicked on
+
+2017-09-25 11:09:57 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI (1)/btn_tdsls4500m001_new' is clicked on
+
+2017-09-25 11:09:57 - [TEST_STEP][PASSED] - setText: Text 'M00000010' is set on object 'Object Repository/tdtre4101m002/btn_tdtre4101m002_Customer'
+
+2017-09-25 11:10:01 - [MESSAGE][PASSED] - Text 'M00000010' is set on object 'Object Repository/tdtre4101m002/btn_tdtre4101m002_Customer'
+
+2017-09-25 11:10:01 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/tdtre4101m002/btn_tdtre4101m002_Customer'
+
+2017-09-25 11:10:01 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/tdtre4101m002/btn_tdtre4101m002_Customer'
+
+2017-09-25 11:10:02 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/btn_tdtre4101m002_save1' is clicked on
+
+2017-09-25 11:10:08 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/btn_tdtre4101m002_save1' is clicked on
+
+2017-09-25 11:10:08 - [TEST_STEP][PASSED] - dragAndDropByOffset: Dragged object with id 'Object Repository/tdtre4101m002/scroll_tdtre4101m002' by offset distance x = 0 and y = -100 successfully
+
+2017-09-25 11:10:15 - [MESSAGE][PASSED] - Dragged object with id 'Object Repository/tdtre4101m002/scroll_tdtre4101m002' by offset distance x = 0 and y = -100 successfully
+
+2017-09-25 11:10:15 - [TEST_STEP][PASSED] - delay: Delayed 10 second(s)
+
+2017-09-25 11:10:25 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2017-09-25 11:10:25 - [TEST_STEP][PASSED] - Statement - G_PSO = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getAttribute(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(tdtre4101m002/field_tdtre4101m002_OrderNumber), "value"): Attribute 'value' of object 'Object Repository/tdtre4101m002/field_tdtre4101m002_OrderNumber' is: 'TP0000761'
+
+2017-09-25 11:10:25 - [MESSAGE][PASSED] - Attribute 'value' of object 'Object Repository/tdtre4101m002/field_tdtre4101m002_OrderNumber' is: 'TP0000761'
+
+2017-09-25 11:10:25 - [TEST_STEP][PASSED] - Statement - println("sale order number" + G_PSO): null
+
+2017-09-25 11:10:25 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/PSOHeader' successfully
+
+2017-09-25 11:10:25 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/BaseTestCases/PSO_AddPartLinePos1' successfully
+
+2017-09-25 11:10:25 - [TEST_CASE][PASSED] - Test Cases/BaseTestCases/PSO_AddPartLinePos1: Test Cases/BaseTestCases/PSO_AddPartLinePos1
+
+2017-09-25 11:10:25 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/btn_tdtre4101s002_newpart' is clicked on
+
+2017-09-25 11:10:29 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/btn_tdtre4101s002_newpart' is clicked on
+
+2017-09-25 11:10:29 - [TEST_STEP][PASSED] - setText: Text 'KP3' is set on object 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002_Partnumber'
+
+2017-09-25 11:10:31 - [MESSAGE][PASSED] - Text 'KP3' is set on object 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002_Partnumber'
+
+2017-09-25 11:10:31 - [TEST_STEP][PASSED] - scrollToElement: Scroll to object 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002-2-Quantity' successfully
+
+2017-09-25 11:10:35 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002-2-Quantity' successfully
+
+2017-09-25 11:10:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002-2-Quantity' is clicked on
+
+2017-09-25 11:10:39 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002-2-Quantity' is clicked on
+
+2017-09-25 11:10:39 - [TEST_STEP][PASSED] - setText: Text '2' is set on object 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002-Qty1'
+
+2017-09-25 11:10:41 - [MESSAGE][PASSED] - Text '2' is set on object 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002-Qty1'
+
+2017-09-25 11:10:41 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/btn_tdtre4101m002_save1' is clicked on
+
+2017-09-25 11:10:45 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/btn_tdtre4101m002_save1' is clicked on
+
+2017-09-25 11:10:45 - [TEST_STEP][PASSED] - delay: Delayed 10 second(s)
+
+2017-09-25 11:10:55 - [MESSAGE][PASSED] - Delayed 10 second(s)
+
+2017-09-25 11:10:55 - [TEST_STEP][PASSED] - scrollToElement: Scroll to object 'Object Repository/tdtre4101m002/Line1/firmPrice' successfully
+
+2017-09-25 11:10:55 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/tdtre4101m002/Line1/firmPrice' successfully
+
+2017-09-25 11:10:55 - [TEST_STEP][PASSED] - Statement - G_FirmPrice = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(tdtre4101m002/Line1/firmPrice)): Text of object 'Object Repository/tdtre4101m002/Line1/firmPrice' is: '40.00'
+
+2017-09-25 11:10:55 - [MESSAGE][PASSED] - Text of object 'Object Repository/tdtre4101m002/Line1/firmPrice' is: '40.00'
+
+2017-09-25 11:10:55 - [TEST_STEP][PASSED] - Statement - Qty1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(tdtre4101m002/Line1/input_tdtre4101s002-Qty)): Text of object 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002-Qty' is: '2.00'
+
+2017-09-25 11:10:55 - [MESSAGE][PASSED] - Text of object 'Object Repository/tdtre4101m002/Line1/input_tdtre4101s002-Qty' is: '2.00'
+
+2017-09-25 11:10:55 - [TEST_STEP][PASSED] - Statement - G_OrderLineAmt = G_FirmPrice * Qty1: null
+
+2017-09-25 11:10:55 - [TEST_STEP][PASSED] - Statement - println("GlobalVariable.G_FirmPrice" + G_FirmPrice): null
+
+2017-09-25 11:10:55 - [TEST_STEP][PASSED] - Statement - println("GlobalVariable.G_OrderLineAmt" + G_OrderLineAmt): null
+
+2017-09-25 11:10:55 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/BaseTestCases/PSO_AddPartLinePos1' successfully
+
+2017-09-25 11:10:55 - [TEST_STEP][NOT_RUN] - callTestCase: NOT_RUN: callTestCase
+
+2017-09-25 11:10:55 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase
+
+2017-09-25 11:10:55 - [TEST_STEP][NOT_RUN] - callTestCase: NOT_RUN: callTestCase
+
+2017-09-25 11:10:55 - [MESSAGE][NOT_RUN] - NOT_RUN: callTestCase
+
+2017-09-25 11:10:55 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/BaseTestCases/PickPackInvoice' successfully
+
+2017-09-25 11:10:55 - [TEST_CASE][PASSED] - Test Cases/BaseTestCases/PickPackInvoice: Test Cases/BaseTestCases/PickPackInvoice
+
+2017-09-25 11:10:55 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/div_tdtre4101m002-1-button-std' is clicked on
+
+2017-09-25 11:11:00 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/div_tdtre4101m002-1-button-std' is clicked on
+
+2017-09-25 11:11:00 - [TEST_STEP][NOT_RUN] - delay: NOT_RUN: delay
+
+2017-09-25 11:11:00 - [MESSAGE][NOT_RUN] - NOT_RUN: delay
+
+2017-09-25 11:11:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/PickPackInvoice' is clicked on
+
+2017-09-25 11:11:00 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/PickPackInvoice' is clicked on
+
+2017-09-25 11:11:00 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/label_Location' is clicked on
+
+2017-09-25 11:11:04 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/label_Location' is clicked on
+
+2017-09-25 11:11:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/div_dlg-tdtre4101m002-1-input-' is clicked on
+
+2017-09-25 11:11:14 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/div_dlg-tdtre4101m002-1-input-' is clicked on
+
+2017-09-25 11:11:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/div_dlg-tdtre4101m002-1-input-' is clicked on
+
+2017-09-25 11:11:19 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/div_dlg-tdtre4101m002-1-input-' is clicked on
+
+2017-09-25 11:11:19 - [TEST_STEP][PASSED] - setText: Text 'd' is set on object 'Object Repository/tdtre4101m002/input_ttstpsplopen-5-devc-1-lo'
+
+2017-09-25 11:11:21 - [MESSAGE][PASSED] - Text 'd' is set on object 'Object Repository/tdtre4101m002/input_ttstpsplopen-5-devc-1-lo'
+
+2017-09-25 11:11:21 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/label_Continue' is clicked on
+
+2017-09-25 11:11:23 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/label_Continue' is clicked on
+
+2017-09-25 11:11:23 - [TEST_STEP][PASSED] - delay: Delayed 15 second(s)
+
+2017-09-25 11:11:38 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+2017-09-25 11:11:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/PSO_multiOCC' is clicked on
+
+2017-09-25 11:11:38 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/PSO_multiOCC' is clicked on
+
+2017-09-25 11:11:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/PSO_multiOCC_PSOfilter' is clicked on
+
+2017-09-25 11:11:38 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/PSO_multiOCC_PSOfilter' is clicked on
+
+2017-09-25 11:11:38 - [TEST_STEP][PASSED] - setText: Text 'TP0000761' is set on object 'Object Repository/tdtre4101m002/PSO_multiOCC_PSOfilter'
+
+2017-09-25 11:11:39 - [MESSAGE][PASSED] - Text 'TP0000761' is set on object 'Object Repository/tdtre4101m002/PSO_multiOCC_PSOfilter'
+
+2017-09-25 11:11:39 - [TEST_STEP][PASSED] - sendKeys: Keys '' sent to object: 'Object Repository/tdtre4101m002/PSO_multiOCC_PSOfilter'
+
+2017-09-25 11:11:39 - [MESSAGE][PASSED] - Keys '' sent to object: 'Object Repository/tdtre4101m002/PSO_multiOCC_PSOfilter'
+
+2017-09-25 11:11:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/tdtre4101m002/PSO_mutliocc_customerfilter' is clicked on
+
+2017-09-25 11:11:39 - [MESSAGE][PASSED] - Object: 'Object Repository/tdtre4101m002/PSO_mutliocc_customerfilter' is clicked on
+
+2017-09-25 11:11:39 - [TEST_STEP][PASSED] - scrollToElement: Scroll to object 'Object Repository/tdtre4101m002/PSO_multiOCC_status' successfully
+
+2017-09-25 11:11:39 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/tdtre4101m002/PSO_multiOCC_status' successfully
+
+2017-09-25 11:11:39 - [TEST_STEP][PASSED] - Statement - status1 = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(tdtre4101m002/PSO_multiOCC_status)): Text of object 'Object Repository/tdtre4101m002/PSO_multiOCC_status' is: 'Completed'
+
+2017-09-25 11:11:39 - [MESSAGE][PASSED] - Text of object 'Object Repository/tdtre4101m002/PSO_multiOCC_status' is: 'Completed'
+
+2017-09-25 11:11:39 - [TEST_STEP][PASSED] - Statement - println(status1): null
+
+2017-09-25 11:11:39 - [TEST_STEP][PASSED] - verifyEqual: Actual object 'Completed' and expected object 'Completed' are equal
+
+2017-09-25 11:11:39 - [MESSAGE][PASSED] - Actual object 'Completed' and expected object 'Completed' are equal
+
+2017-09-25 11:11:39 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/BaseTestCases/PickPackInvoice' successfully
+
+2017-09-25 11:11:39 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/BaseTestCases/GetMauc' successfully
+
+2017-09-25 11:11:39 - [TEST_CASE][PASSED] - Test Cases/BaseTestCases/GetMauc: Test Cases/BaseTestCases/GetMauc
+
+2017-09-25 11:11:40 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/OpenSession' successfully
+
+2017-09-25 11:11:40 - [TEST_CASE][PASSED] - Test Cases/OpenSession: Test Cases/OpenSession
+
+2017-09-25 11:11:40 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2017-09-25 11:11:40 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2017-09-25 11:11:48 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2017-09-25 11:11:48 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://rgajbhiye:Robin$123@proxima-ln4.e-emphasys.com:8441/webui/servlet/login' successfully
+
+2017-09-25 11:11:51 - [MESSAGE][PASSED] - Navigate to 'https://rgajbhiye:Robin$123@proxima-ln4.e-emphasys.com:8441/webui/servlet/login' successfully
+
+2017-09-25 11:11:51 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2017-09-25 11:11:51 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2017-09-25 11:11:51 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2017-09-25 11:11:51 - [MESSAGE][PASSED] - Current window maximized
+
+2017-09-25 11:11:51 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_more' is clicked on
+
+2017-09-25 11:11:58 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_more' is clicked on
+
+2017-09-25 11:11:58 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_Option' is clicked on
+
+2017-09-25 11:11:59 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_Option' is clicked on
+
+2017-09-25 11:11:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_RunProgram_' is clicked on
+
+2017-09-25 11:11:59 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_RunProgram_' is clicked on
+
+2017-09-25 11:11:59 - [TEST_STEP][PASSED] - sendKeys: Keys 'whina1512m000' sent to object: 'Object Repository/HomePage2/Page_Infor LN UI/Input_Session_ID'
+
+2017-09-25 11:11:59 - [MESSAGE][PASSED] - Keys 'whina1512m000' sent to object: 'Object Repository/HomePage2/Page_Infor LN UI/Input_Session_ID'
+
+2017-09-25 11:11:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_options' is clicked on
+
+2017-09-25 11:11:59 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_options' is clicked on
+
+2017-09-25 11:11:59 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/OpenSession' successfully
+
+2017-09-25 11:11:59 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/MAUC/div_whina1512m000-0-button-std' is clicked on
+
+2017-09-25 11:12:02 - [MESSAGE][PASSED] - Object: 'Object Repository/MAUC/div_whina1512m000-0-button-std' is clicked on
+
+2017-09-25 11:12:02 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2017-09-25 11:12:05 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2017-09-25 11:12:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/MAUC/input_whina1512m000-1-whinr112' is clicked on
+
+2017-09-25 11:12:05 - [MESSAGE][PASSED] - Object: 'Object Repository/MAUC/input_whina1512m000-1-whinr112' is clicked on
+
+2017-09-25 11:12:05 - [TEST_STEP][PASSED] - setText: Text 'KP3' is set on object 'Object Repository/MAUC/input_whina1512m000-1-whinr112'
+
+2017-09-25 11:12:05 - [MESSAGE][PASSED] - Text 'KP3' is set on object 'Object Repository/MAUC/input_whina1512m000-1-whinr112'
+
+2017-09-25 11:12:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/MAUC/input_whina1512m000-1-whinr112 (1)' is clicked on
+
+2017-09-25 11:12:05 - [MESSAGE][PASSED] - Object: 'Object Repository/MAUC/input_whina1512m000-1-whinr112 (1)' is clicked on
+
+2017-09-25 11:12:05 - [TEST_STEP][PASSED] - setText: Text 'WH001' is set on object 'Object Repository/MAUC/input_whina1512m000-1-whinr112 (1)'
+
+2017-09-25 11:12:05 - [MESSAGE][PASSED] - Text 'WH001' is set on object 'Object Repository/MAUC/input_whina1512m000-1-whinr112 (1)'
+
+2017-09-25 11:12:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/MAUC/label_OK' is clicked on
+
+2017-09-25 11:12:06 - [MESSAGE][PASSED] - Object: 'Object Repository/MAUC/label_OK' is clicked on
+
+2017-09-25 11:12:06 - [TEST_STEP][NOT_RUN] - click: NOT_RUN: click
+
+2017-09-25 11:12:06 - [MESSAGE][NOT_RUN] - NOT_RUN: click
+
+2017-09-25 11:12:06 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2017-09-25 11:12:09 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2017-09-25 11:12:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/MAUC/scrolltolast' is clicked on
+
+2017-09-25 11:12:09 - [MESSAGE][PASSED] - Object: 'Object Repository/MAUC/scrolltolast' is clicked on
+
+2017-09-25 11:12:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/MAUC/checkbox_mauc_selectHeader' is clicked on
+
+2017-09-25 11:12:09 - [MESSAGE][PASSED] - Object: 'Object Repository/MAUC/checkbox_mauc_selectHeader' is clicked on
+
+2017-09-25 11:12:09 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/MAUC/option_mauc_selectAll' is clicked on
+
+2017-09-25 11:12:10 - [MESSAGE][PASSED] - Object: 'Object Repository/MAUC/option_mauc_selectAll' is clicked on
+
+2017-09-25 11:12:10 - [TEST_STEP][PASSED] - delay: Delayed 3 second(s)
+
+2017-09-25 11:12:13 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2017-09-25 11:12:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/MAUC/button_mauc_action' is clicked on
+
+2017-09-25 11:12:13 - [MESSAGE][PASSED] - Object: 'Object Repository/MAUC/button_mauc_action' is clicked on
+
+2017-09-25 11:12:13 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/MAUC/label_I ventory Receipt Transa' is clicked on
+
+2017-09-25 11:12:13 - [MESSAGE][PASSED] - Object: 'Object Repository/MAUC/label_I ventory Receipt Transa' is clicked on
+
+2017-09-25 11:12:13 - [TEST_STEP][PASSED] - Statement - G_Line1Mauc = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(MAUC/label_18.4369)): Text of object 'Object Repository/MAUC/label_18.4369' is: '18.4369'
+
+2017-09-25 11:12:14 - [MESSAGE][PASSED] - Text of object 'Object Repository/MAUC/label_18.4369' is: '18.4369'
+
+2017-09-25 11:12:14 - [TEST_STEP][PASSED] - Statement - println(G_Line1Mauc): null
+
+2017-09-25 11:12:14 - [TEST_STEP][PASSED] - Statement - G_Line1Mauc = G_Line1Mauc: null
+
+2017-09-25 11:12:14 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/BaseTestCases/GetMauc' successfully
+
+2017-09-25 11:12:14 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/BaseTestCases/GetCostFromMAUC' successfully
+
+2017-09-25 11:12:14 - [TEST_CASE][PASSED] - Test Cases/BaseTestCases/GetCostFromMAUC: Test Cases/BaseTestCases/GetCostFromMAUC
+
+2017-09-25 11:12:15 - [TEST_STEP][PASSED] - Statement - Cost1 = G_Line1Mauc * Qty: null
+
+2017-09-25 11:12:15 - [TEST_STEP][PASSED] - Statement - G_PartCost = java.lang.Math.round(Cost1 * 100) / 100: null
+
+2017-09-25 11:12:15 - [TEST_STEP][PASSED] - Statement - println("GlobalVariable.G_PartCost" + G_PartCost): null
+
+2017-09-25 11:12:15 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/BaseTestCases/GetCostFromMAUC' successfully
+
+2017-09-25 11:12:15 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/BaseTestCases/GetIntTransForPSO' successfully
+
+2017-09-25 11:12:15 - [TEST_CASE][PASSED] - Test Cases/BaseTestCases/GetIntTransForPSO: Test Cases/BaseTestCases/GetIntTransForPSO
+
+2017-09-25 11:12:15 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/OpenSession' successfully
+
+2017-09-25 11:12:15 - [TEST_CASE][PASSED] - Test Cases/OpenSession: Test Cases/OpenSession
+
+2017-09-25 11:12:15 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2017-09-25 11:12:15 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2017-09-25 11:12:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2017-09-25 11:12:23 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://rgajbhiye:Robin$123@proxima-ln4.e-emphasys.com:8441/webui/servlet/login' successfully
+
+2017-09-25 11:12:25 - [MESSAGE][PASSED] - Navigate to 'https://rgajbhiye:Robin$123@proxima-ln4.e-emphasys.com:8441/webui/servlet/login' successfully
+
+2017-09-25 11:12:25 - [TEST_STEP][PASSED] - waitForPageLoad: Wait for page load successfully
+
+2017-09-25 11:12:25 - [MESSAGE][PASSED] - Wait for page load successfully
+
+2017-09-25 11:12:25 - [TEST_STEP][PASSED] - maximizeWindow: Current window maximized
+
+2017-09-25 11:12:26 - [MESSAGE][PASSED] - Current window maximized
+
+2017-09-25 11:12:26 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_more' is clicked on
+
+2017-09-25 11:12:32 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_more' is clicked on
+
+2017-09-25 11:12:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_Option' is clicked on
+
+2017-09-25 11:12:32 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_Option' is clicked on
+
+2017-09-25 11:12:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_RunProgram_' is clicked on
+
+2017-09-25 11:12:33 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_RunProgram_' is clicked on
+
+2017-09-25 11:12:33 - [TEST_STEP][PASSED] - sendKeys: Keys 'tfgld4510m000' sent to object: 'Object Repository/HomePage2/Page_Infor LN UI/Input_Session_ID'
+
+2017-09-25 11:12:33 - [MESSAGE][PASSED] - Keys 'tfgld4510m000' sent to object: 'Object Repository/HomePage2/Page_Infor LN UI/Input_Session_ID'
+
+2017-09-25 11:12:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_options' is clicked on
+
+2017-09-25 11:12:33 - [MESSAGE][PASSED] - Object: 'Object Repository/HomePage2/Page_Infor LN UI/btn_options' is clicked on
+
+2017-09-25 11:12:33 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/OpenSession' successfully
+
+2017-09-25 11:12:33 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/img_gwt-Image' is clicked on
+
+2017-09-25 11:12:35 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/img_gwt-Image' is clicked on
+
+2017-09-25 11:12:35 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/div_tfgld4510m000-1-tfgld418.t' is clicked on
+
+2017-09-25 11:12:37 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/div_tfgld4510m000-1-tfgld418.t' is clicked on
+
+2017-09-25 11:12:37 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/div_tfgld4510m000-1-tfgld418.t' is clicked on
+
+2017-09-25 11:12:38 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/div_tfgld4510m000-1-tfgld418.t' is clicked on
+
+2017-09-25 11:12:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/div_item_32' is clicked on
+
+2017-09-25 11:12:38 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/div_item_32' is clicked on
+
+2017-09-25 11:12:38 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/OrderNo' is clicked on
+
+2017-09-25 11:12:38 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/OrderNo' is clicked on
+
+2017-09-25 11:12:38 - [TEST_STEP][PASSED] - setText: Text 'TP0000761' is set on object 'Object Repository/IntTransaction/OrderNo'
+
+2017-09-25 11:12:39 - [MESSAGE][PASSED] - Text 'TP0000761' is set on object 'Object Repository/IntTransaction/OrderNo'
+
+2017-09-25 11:12:39 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/div_tfgld4510m000-1-button-std' is clicked on
+
+2017-09-25 11:12:39 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/div_tfgld4510m000-1-button-std' is clicked on
+
+2017-09-25 11:12:39 - [TEST_STEP][PASSED] - setText: Text '10' is set on object 'Object Repository/IntTransaction/positionFilter'
+
+2017-09-25 11:12:40 - [MESSAGE][PASSED] - Text '10' is set on object 'Object Repository/IntTransaction/positionFilter'
+
+2017-09-25 11:12:40 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2017-09-25 11:12:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2017-09-25 11:12:42 - [TEST_STEP][PASSED] - Statement - G_PartIssue = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(IntTransaction/partissue)): Text of object 'Object Repository/IntTransaction/partissue' is: '36.87'
+
+2017-09-25 11:12:42 - [MESSAGE][PASSED] - Text of object 'Object Repository/IntTransaction/partissue' is: '36.87'
+
+2017-09-25 11:12:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/FinTrasactionFilter' is clicked on
+
+2017-09-25 11:12:42 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/FinTrasactionFilter' is clicked on
+
+2017-09-25 11:12:42 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/COGSoption' is clicked on
+
+2017-09-25 11:12:42 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/COGSoption' is clicked on
+
+2017-09-25 11:12:42 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2017-09-25 11:12:44 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2017-09-25 11:12:44 - [TEST_STEP][PASSED] - Statement - G_COGS = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(IntTransaction/partissue)): Text of object 'Object Repository/IntTransaction/partissue' is: '36.87'
+
+2017-09-25 11:12:44 - [MESSAGE][PASSED] - Text of object 'Object Repository/IntTransaction/partissue' is: '36.87'
+
+2017-09-25 11:12:44 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/FinTrasactionFilter' is clicked on
+
+2017-09-25 11:12:45 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/FinTrasactionFilter' is clicked on
+
+2017-09-25 11:12:45 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/IntTransaction/RevenueAnalysisOption' is clicked on
+
+2017-09-25 11:12:45 - [MESSAGE][PASSED] - Object: 'Object Repository/IntTransaction/RevenueAnalysisOption' is clicked on
+
+2017-09-25 11:12:45 - [TEST_STEP][PASSED] - delay: Delayed 2 second(s)
+
+2017-09-25 11:12:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2017-09-25 11:12:47 - [TEST_STEP][PASSED] - Statement - G_RevenueAnalysis = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(IntTransaction/partissue)): Text of object 'Object Repository/IntTransaction/partissue' is: '80.00'
+
+2017-09-25 11:12:47 - [MESSAGE][PASSED] - Text of object 'Object Repository/IntTransaction/partissue' is: '80.00'
+
+2017-09-25 11:12:47 - [TEST_STEP][PASSED] - Statement - println(" Part issue entry " + G_PartIssue): null
+
+2017-09-25 11:12:47 - [TEST_STEP][PASSED] - Statement - println(" COGS Entry " + G_COGS): null
+
+2017-09-25 11:12:47 - [TEST_STEP][PASSED] - Statement - println(" Ravenue Analysis " + G_RevenueAnalysis): null
+
+2017-09-25 11:12:47 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/BaseTestCases/GetIntTransForPSO' successfully
+
+2017-09-25 11:12:47 - [TEST_STEP][PASSED] - verifyEqual: Actual object '36.87' and expected object '36.87' are equal
+
+2017-09-25 11:12:47 - [MESSAGE][PASSED] - Actual object '36.87' and expected object '36.87' are equal
+
+2017-09-25 11:12:47 - [TEST_STEP][PASSED] - verifyEqual: Actual object '36.87' and expected object '36.87' are equal
+
+2017-09-25 11:12:47 - [MESSAGE][PASSED] - Actual object '36.87' and expected object '36.87' are equal
+
+2017-09-25 11:12:47 - [TEST_STEP][PASSED] - verifyEqual: Actual object '80.00' and expected object '80' are equal
+
+2017-09-25 11:12:47 - [MESSAGE][PASSED] - Actual object '80.00' and expected object '80' are equal]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2017-09-25 11:09:34 - [TEST_SUITE][PASSED] - PSOTEst: Test Cases/Test]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

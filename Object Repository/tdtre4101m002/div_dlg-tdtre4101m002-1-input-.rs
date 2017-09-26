@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_dlg-tdtre4101m002-1-input-</name>
+   <tag></tag>
+   <elementGuidId>f24fcf39-83d5-40f5-9c1f-8cf2d7985f9d</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@id=&quot;dlg-tdtre4101m002-1-input&quot;]/div[@class=&quot;Inner&quot;]/div[@class=&quot;Container&quot;]/div[@class=&quot;Content&quot;]/div[1]/div[@class=&quot;DialogWindowFooter&quot;]/div[@id=&quot;dlg-tdtre4101m002-1-input-button-0&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dlg-tdtre4101m002-1-input-button-0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Button FormButton TextButton Button-focus Button-hover</value>
+   </webElementProperties>
+</WebElementEntity>

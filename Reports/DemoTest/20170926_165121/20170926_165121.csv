@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+DemoTest,Firefox 43.0,,2017-09-26 16:51:32,2017-09-26 16:55:43,4m - 10.614s,FAILED
+,,,,,,
+Test Cases/Test,Firefox 43.0,,2017-09-26 16:51:33,2017-09-26 16:55:05,3m - 32.575s,FAILED
+callTestCase,Firefox 43.0,,2017-09-26 16:51:34,2017-09-26 16:53:28,1m - 53.950s,PASSED
+callTestCase,Firefox 43.0,,2017-09-26 16:53:28,2017-09-26 16:54:04,36.097s,PASSED
+callTestCase,Firefox 43.0,,2017-09-26 16:54:04,2017-09-26 16:54:04,0.002s,NOT_RUN
+callTestCase,Firefox 43.0,,2017-09-26 16:54:04,2017-09-26 16:54:04,0.003s,NOT_RUN
+callTestCase,Firefox 43.0,,2017-09-26 16:54:04,2017-09-26 16:55:05,1m - 1.388s,FAILED

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_tfgld1504m000-2-__exact.ma</name>
+   <tag></tag>
+   <elementGuidId>c7bcc5da-9058-4017-a335-25f539230de6</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tfgld1504m000-1-__exact.match__-image&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAhklEQVR42mNgAALhxd93APFvIP5PIgbp2cEANWQzSODxl3//SQUgPVDDNoMM+vXg87//v4HmkOoikB6QXpAZIIPAppPhrf/IeskyCFk92QbBAEUGIQOyDcJmCF6DsBmKyxCCBmHj43I1QYPQAVnRT6whRAU2MYZQnCBpbhDVMi11ihFqFWwAiJvJamwZu20AAAAASUVORK5CYII=</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tfgld1504m000-1-__exact.match__-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-Image</value>
+   </webElementProperties>
+</WebElementEntity>

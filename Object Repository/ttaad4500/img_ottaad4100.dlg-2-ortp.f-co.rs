@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ottaad4100.dlg-2-ortp.f-co</name>
+   <tag></tag>
+   <elementGuidId>8fb774b7-d1b6-4ae4-b0c5-4c38dca7765b</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ottaad4100.dlg-2-ortp.f-control-trigger-button-image&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAAlElEQVQYV2M0NTXt+PPnTwYTExMfAwMDIxAz/P///x+QesHIyNjHaGVlJfbjx49aoGAUUJEgkP4LlDwPpPuA/LUgHUz6+vqazMzM5UB2IFDXPSBuAirYfvbs2W9gIx0cHFg+fvyoDVSU9e/fv8OsrKybTp48+RlkG1gBFDAbGxsLsrGxfT1+/PgPkCTITcgKkNQimAAe1TeyO1tOfwAAAABJRU5ErkJggg==</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ottaad4100.dlg-2-ortp.f-control-trigger-button-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gwt-Image</value>
+   </webElementProperties>
+</WebElementEntity>

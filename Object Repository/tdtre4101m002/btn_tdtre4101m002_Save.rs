@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_tdtre4101m002_Save</name>
+   <tag></tag>
+   <elementGuidId>d7ecd03d-3e3e-4b0d-99ca-2c33132a1e08</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tdtre4101m002-1-button-std-file.new&quot;)</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>tdtre4101m002-1-button-std-file.new</value>
+   </webElementProperties>
+</WebElementEntity>

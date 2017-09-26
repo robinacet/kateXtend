@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Location</name>
+   <tag></tag>
+   <elementGuidId>44a619d6-56a7-4df7-847b-2c2834deb0bd</elementGuidId>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@id=&quot;dlg-tdtre4101m002-1-input&quot;]/div[@class=&quot;Inner&quot;]/div[@class=&quot;Container&quot;]/div[@class=&quot;Content&quot;]/div[1]/div[@class=&quot;DialogWindowFooter&quot;]/div[@id=&quot;dlg-tdtre4101m002-1-input-button-1&quot;]/label[@id=&quot;dlg-tdtre4101m002-1-input-button-1-label&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>dlg-tdtre4101m002-1-input-button-1-label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Location</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Label</value>
+   </webElementProperties>
+</WebElementEntity>
